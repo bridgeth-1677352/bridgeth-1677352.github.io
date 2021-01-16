@@ -71,6 +71,4 @@ QGIS, and ArcGIS
 - Graphic Design: Photoshop, InDesign,
 Illustrator
 
-- Interpersonal: Strong collaboration
-and leadership abilities, high levels of
-verbal and written communication
+- Interpersonal: Strong collaboration and leadership abilities, high levels of verbal and written communication, accepting of new ideas, attentive listener, and sociable

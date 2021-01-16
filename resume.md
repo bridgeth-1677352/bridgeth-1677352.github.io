@@ -65,7 +65,7 @@ HTML, CSS, and Java
 
 - Databases and Data Visualization:
 Excel, Microsoft SQL Server, Tableau,
-Oracle Apex, Power BI, PostgreSQL,
+Oracle APEX, Power BI, PostgreSQL,
 QGIS, and ArcGIS
 
 - Graphic Design: Photoshop, InDesign,

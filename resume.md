@@ -1,12 +1,14 @@
 # Bridget Haney
 
+![Me](https://i.imgur.com/TVV9w51.png)
+
 bridgethaney10@gmail.com
 
 https://www.linkedin.com/in/bridgethaney/
 
 # Overview
 
-As a senior at the University of Washington pursuing a bachelor’s degree in the data science track of Geography with a minor in Informatics, I believe my educational background and experience in data science, geographic information systems, spatial analysis, machine learning, and information technology perfectly aligns with the responsibilities designated for positions within this company. I am a team-oriented individual with excellent problem-solving, communication, and leadership skills who is eager to work with experts and professionals in a data science and client-based work environment.
+>As a senior at the University of Washington pursuing a bachelor’s degree in the data science track of Geography with a minor in Informatics, I believe my educational background and experience in data science, geographic information systems, spatial analysis, machine learning, and information technology perfectly aligns with the responsibilities designated for positions within this company. I am a team-oriented individual with excellent problem-solving, communication, and leadership skills who is eager to work with experts and professionals in a data science and client-based work environment.
 
 # Education
 **University of Washington**

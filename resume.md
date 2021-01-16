@@ -12,7 +12,7 @@ As a senior at the University of Washington pursuing a bachelor’s degree in th
 **University of Washington**
 <br/>*Seattle, Washington*
 <br/>Geography: Data Science - Major
-<br/>Informatics- Minor
+<br/>Informatics - Minor
 <br/> (September 2017 - June 2021)
 
 # Work Experience
@@ -57,8 +57,10 @@ HTML, CSS, and Java
 Excel, Microsoft SQL Server, Tableau,
 Oracle Apex, Power BI, PostgreSQL,
 QGIS, and ArcGIS
+
 - Graphic Design: Photoshop, InDesign,
 Illustrator
+
 - Interpersonal: Strong collaboration
 and leadership abilities, high levels of
 verbal and written communication

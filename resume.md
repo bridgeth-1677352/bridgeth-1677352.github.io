@@ -29,7 +29,7 @@
 
 ### University of Washington
 
-Digital Communications Student Coordinator (Summer Employment 2019)
+**Digital Communications Student Coordinator (Summer Employment 2019)**
 <br/>*Seattle, Washington*
 <br/>(May 2019 - September 2019)
 
@@ -46,7 +46,7 @@ conceiving of discussion topics and producing content
 
 ## Nordstrom
 
-Sales Associate and Support (Summer Employment 2016-2018)
+**Sales Associate and Support (Summer Employment 2016-2018)**
 <br/> *Bellevue, Washington*
 <br/>(June 2016 - August 2018)
 

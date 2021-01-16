@@ -4,7 +4,8 @@
 
 bridgethaney10@gmail.com
 
-https://www.linkedin.com/in/bridgethaney/
+[LinkedIn](https://www.linkedin.com/in/bridgethaney/)
+
 
 # Overview
 

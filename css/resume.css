@@ -1,0 +1,70 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template/the-big-picture)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+  background: url('https://images.unsplash.com/photo-1530533718754-001d2668365a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h1 {
+  color: #fff;
+}
+
+h3 {
+  color: #fff;
+  margin-top: 20px;
+}
+
+h5 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+li {
+  font-size: 14px;
+  color: #fff;
+}
+
+.navbar-custom {
+  background-color: black;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #0747C8;
+  text-decoration: none;
+}
+
+.top-info {
+  background-color: black;
+  width: 1504px;
+  height: 340px;
+  margin-top: -850px;
+}
+
+.education, .skills {
+    color: #0747C8;
+}
+
+.nordstrom {
+  margin-top: 100px;
+}
+
+.work-experience {
+  margin-top: -10px;
+}

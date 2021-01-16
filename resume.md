@@ -2,25 +2,32 @@
 
 ![Me](https://i.imgur.com/TVV9w51.png)
 
-bridgethaney10@gmail.com
+### Contact
 
-[LinkedIn](https://www.linkedin.com/in/bridgethaney/)
+[Email](https://www.linkedin.com)
+<br/>[LinkedIn](https://www.linkedin.com/in/bridgethaney/)
+
+### Past Projects
+
+[Music Festival Web Application](https://bit.ly/2HBgY7p)
+<br/>[Obesity in America Analysis & Visualization](https://bit.ly/2HqktNN)
 
 
-# Overview
+## Overview
 
->As a senior at the University of Washington pursuing a bachelor’s degree in the data science track of Geography with a minor in Informatics, I believe my educational background and experience in data science, geographic information systems, spatial analysis, machine learning, and information technology perfectly aligns with the responsibilities designated for positions within this company. I am a team-oriented individual with excellent problem-solving, communication, and leadership skills who is eager to work with experts and professionals in a data science and client-based work environment.
+>As a senior at the University of Washington pursuing a bachelor’s degree in the data science track of Geography with a minor in Informatics, I believe my educational background and experience in data science, geographic information systems, spatial analysis, machine learning, and information technology perfectly aligns with the responsibilities for data-driven positions. I am a team-oriented individual with excellent problem-solving, communication, and leadership skills who is eager to work with experts and professionals in a data science and client-based work environment.
 
-# Education
+## Education
 **University of Washington**
 <br/>*Seattle, Washington*
 <br/>Geography: Data Science - Major
 <br/>Informatics - Minor
+<br/>3.43 GPA
 <br/> (September 2017 - June 2021)
 
-# Work Experience
+## Work Experience
 
-## University of Washington
+### University of Washington
 
 Digital Communications Student Coordinator (Summer Employment 2019)
 <br/>*Seattle, Washington*

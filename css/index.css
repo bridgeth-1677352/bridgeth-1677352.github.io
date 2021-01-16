@@ -1,0 +1,93 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template/the-big-picture)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+  background: url('https://wallpaperaccess.com/full/482776.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+.side-info {
+  background-color: black;
+  width: 400px;
+  height: 950px;
+  margin-top: -500px;
+  margin-left: 1103px;
+}
+
+.profile-pic {
+  width: 250px;
+  height: 250px;
+  margin-top: 200px;
+  margin-left: 78px;
+}
+
+.contact {
+  color: #0747C8;
+  text-transform:uppercase;
+  margin-top: 40px;
+  text-align:center;
+}
+
+.contact-info {
+  margin-top: 20px;
+  text-align:center;
+}
+
+.contact-link {
+  color: #fff;
+}
+
+.contact-link:hover {
+  color: #0747C8;
+  text-decoration: none;
+}
+
+.project {
+  color: #0747C8;
+  text-transform:uppercase;
+  margin-top: 40px;
+  text-align:center;
+}
+
+.project-info {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.project-link {
+  color: #fff;
+}
+
+.project-link:hover {
+  color: #0747C8;
+  text-decoration: none;
+}
+.navbar-custom {
+  background-color: black;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #0747C8;
+  text-decoration: none;
+}

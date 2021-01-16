@@ -4,7 +4,7 @@
 
 ### Contact
 
-[Email](https://www.linkedin.com)
+[Email](mailto:bridgethaney10@gmail.com)
 <br/>[LinkedIn](https://www.linkedin.com/in/bridgethaney/)
 
 ### Past Projects

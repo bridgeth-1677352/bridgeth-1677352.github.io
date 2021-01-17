@@ -44,7 +44,7 @@ students
 - Aided in facilitating and conducting live events with university staff and students, including
 conceiving of discussion topics and producing content
 
-## Nordstrom
+### Nordstrom
 
 **Sales Associate and Support (Summer Employment 2016-2018)**
 <br/> *Bellevue, Washington*

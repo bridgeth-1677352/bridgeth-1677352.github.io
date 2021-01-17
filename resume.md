@@ -58,7 +58,7 @@ customer experience
 - Built strong relationships with returning customers
 - Met designated volume goals
 
-# Skills
+## Skills
 
 - Coding: JavaScript, R, SQL, Python,
 HTML, CSS, and Java

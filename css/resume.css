@@ -54,7 +54,7 @@ li {
   background-color: black;
   width: 1504px;
   height: 340px;
-  margin-top: -850px;
+  margin-top: -830px;
 }
 
 .education, .skills {
@@ -66,5 +66,5 @@ li {
 }
 
 .work-experience {
-  margin-top: -10px;
+  margin-top: 40px;
 }

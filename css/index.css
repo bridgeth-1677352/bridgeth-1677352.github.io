@@ -38,6 +38,7 @@ strong {
 
 .row {
   margin-top: 70px;
+  margin-left: 40px;
 }
 
 .overview {
@@ -50,7 +51,7 @@ strong {
   background-color: black;
   width: 380px;
   height: 920px;
-  margin-top: -590px;
+  margin-top: -600px;
 }
 
 .profile-pic {

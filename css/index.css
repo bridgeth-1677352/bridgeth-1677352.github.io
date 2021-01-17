@@ -18,7 +18,14 @@ h1 {
 
 h2 {
   color: #fff;
-  margin-top: 20px;
+  text-transform: UPPERCASE;
+  margin-top: -10px;
+  font-size:30px;
+}
+
+h3 {
+  color: #fff;
+  margin-top: 50px;
 }
 
 p {
@@ -29,8 +36,8 @@ p {
   background-color: black;
   width: 380px;
   height: 920px;
-  margin-top: -500px;
-  margin-left: 1103px;
+  margin-top: -590px;
+  margin-left: 1123px;
 }
 
 .profile-pic {
